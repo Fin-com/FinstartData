@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "ビデオタイトル1",
+        "url": "ビデオURL1",
+        "description": "ビデオ説明1",
+        "category": "ビデオカテゴリー1",
+        "teacher": "ビデオ先生1"
+    },
+    {
+      　"id":2,
+        "title": "ビデオタイトル2",
+        "url": "ビデオURL2",
+        "description": "ビデオ説明2",
+        "category": "ビデオカテゴリー2",
+        "teacher": "ビデオ先生2"
+    }
+]
