@@ -3,6 +3,7 @@
         "id": 1,
         "title": "lesson1",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-04%20at%2023.32.24.png",
         "description": "肩のストレッチ",
         "category": "肩",
         "teacher": "ストレッチママ"
