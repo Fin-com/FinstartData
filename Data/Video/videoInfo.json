@@ -10,10 +10,11 @@
     },
     {
         "id":2,
-        "title": "ビデオタイトル2",
-        "url": "ビデオURL2",
-        "description": "ビデオ説明2",
-        "category": "ビデオカテゴリー2",
-        "teacher": "ビデオ先生2"
+        "title": "lesson2",
+        "url": "https://storage.googleapis.com/finappproject-b371f.appspot.com/lesson2.mp4",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-05%20at%2010.36.36.png"
+        "description": "首のストレッチ",
+        "category": "首",
+        "teacher": "ストレッチママ"
     }
 ]
