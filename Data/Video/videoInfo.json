@@ -21,7 +21,7 @@
         "id": 3,
         "title": "bigbuckbunny",
         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-04%20at%2023.32.24.png",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/bigbunny.png",
         "description": "肩のストレッチ",
         "category": "肩",
         "teacher": "ストレッチママ"
@@ -30,7 +30,7 @@
         "id":4,
         "title": "elephantsdream",
         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-05%20at%2010.36.36.png"
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/elephantsdream.png"
         "description": "首のストレッチ",
         "category": "首",
         "teacher": "ストレッチママ"
@@ -39,7 +39,7 @@
         "id": 5,
         "title": "ForBiggerBlazes",
         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-04%20at%2023.32.24.png",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/forbiggerblazes.png",
         "description": "肩のストレッチ",
         "category": "肩",
         "teacher": "ストレッチママ"
