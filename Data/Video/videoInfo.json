@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "title": "ビデオタイトル1",
-        "url": "ビデオURL1",
-        "description": "ビデオ説明1",
-        "category": "ビデオカテゴリー1",
-        "teacher": "ビデオ先生1"
+        "title": "lesson1",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "description": "肩のストレッチ",
+        "category": "肩",
+        "teacher": "ストレッチママ"
     },
     {
         "id":2,
