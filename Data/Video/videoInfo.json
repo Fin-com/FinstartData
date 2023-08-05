@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "bigbuckbunny",
-        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/bigbunny.png",
         "description": "肩のストレッチ",
         "category": "肩",
@@ -29,7 +29,7 @@
     {
         "id":4,
         "title": "elephantsdream",
-        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/elephantsdream.png"
         "description": "首のストレッチ",
         "category": "首",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "ForBiggerBlazes",
-        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/forbiggerblazes.png",
         "description": "肩のストレッチ",
         "category": "肩",
