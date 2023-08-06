@@ -5,7 +5,7 @@
         "url": "https://storage.googleapis.com/finappproject-b371f.appspot.com/lesson1.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-04%20at%2023.32.24.png",
         "description": "肩のストレッチ",
-        "category": "肩",
+        "category": "ストレッチ",
         "teacher": "ストレッチママ"
     },
     {
@@ -14,7 +14,7 @@
         "url": "https://storage.googleapis.com/finappproject-b371f.appspot.com/lesson2.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/Screenshot%202023-08-05%20at%2010.36.36.png"
         "description": "首のストレッチ",
-        "category": "首",
+        "category": "ストレッチ",
         "teacher": "ストレッチママ"
     },
     {
@@ -22,8 +22,8 @@
         "title": "bigbuckbunny",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/bigbunny.png",
-        "description": "肩のストレッチ",
-        "category": "肩",
+        "description": "肩のヨガ",
+        "category": "ヨガ",
         "teacher": "ストレッチママ"
     },
     {
@@ -31,8 +31,8 @@
         "title": "elephantsdream",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/elephantsdream.png"
-        "description": "首のストレッチ",
-        "category": "首",
+        "description": "首のヨガ",
+        "category": "ヨガ",
         "teacher": "ストレッチママ"
     },
     {
@@ -40,8 +40,8 @@
         "title": "ForBiggerBlazes",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
         "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/forbiggerblazes.png",
-        "description": "肩のストレッチ",
-        "category": "肩",
+        "description": "体操",
+        "category": "体操",
         "teacher": "ストレッチママ"
     }
 ]
