@@ -43,5 +43,32 @@
         "description": "体操",
         "category": "体操",
         "teacher": "ストレッチママ"
+    },    
+    {
+        "id": 6,
+        "title": "ForBiggerEscapes",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/ForBiggerEscapes.png",
+        "description": "体操",
+        "category": "体操",
+        "teacher": "ストレッチママ"
+    },
+    {
+        "id": 7,
+        "title": "ForBiggerFun",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/ForBiggerFun.png",
+        "description": "体操",
+        "category": "体操",
+        "teacher": "ストレッチママ"
+    },
+    {
+        "id": 8,
+        "title": "SubaruOutbackOnStreetAndDirt",
+        "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+        "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/SubaruOutbackOnStreetAndDirt.png",
+        "description": "体操",
+        "category": "体操",
+        "teacher": "ストレッチママ"
     }
 ]
