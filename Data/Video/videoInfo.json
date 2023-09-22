@@ -85,5 +85,16 @@
     "category": "体操",
     "teacher": "ストレッチママ",
     "level": 2
+  },
+
+  {
+    "id": "",
+    "title": "test",
+    "url": "https://storage.googleapis.com/finappproject-b371f.appspot.com/",
+    "thumbnail": "https://raw.githubusercontent.com/Fin-com/FinstartData/main/Data/Video/Thumbnails/",
+    "description": "",
+    "category": "",
+    "teacher": "",
+    "level": ""
   }
 ]
